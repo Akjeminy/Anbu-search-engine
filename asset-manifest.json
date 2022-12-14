@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Anbu-search-engine/static/css/main.0dd79b7a.css",
+    "main.js": "/Anbu-search-engine/static/js/main.6ee1c052.js",
+    "static/js/787.9afd9f0f.chunk.js": "/Anbu-search-engine/static/js/787.9afd9f0f.chunk.js",
+    "static/media/woogle.png": "/Anbu-search-engine/static/media/woogle.75a9f5a8f2f95a1f1028.png",
+    "index.html": "/Anbu-search-engine/index.html",
+    "main.0dd79b7a.css.map": "/Anbu-search-engine/static/css/main.0dd79b7a.css.map",
+    "main.6ee1c052.js.map": "/Anbu-search-engine/static/js/main.6ee1c052.js.map",
+    "787.9afd9f0f.chunk.js.map": "/Anbu-search-engine/static/js/787.9afd9f0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd79b7a.css",
+    "static/js/main.6ee1c052.js"
+  ]
+}
